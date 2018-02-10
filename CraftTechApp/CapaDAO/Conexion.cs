@@ -18,5 +18,6 @@ namespace CapaDatos
            SqlConnection conexion = new SqlConnection(cadena);
            return conexion;
         }
+
     }
 }

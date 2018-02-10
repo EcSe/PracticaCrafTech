@@ -1,0 +1,5 @@
+C:\Users\Elvin\Desktop\Proyectos\PracticaCrafTech\CraftTechApp\CapaDAO\bin\Debug\CapaDatos.dll
+C:\Users\Elvin\Desktop\Proyectos\PracticaCrafTech\CraftTechApp\CapaDAO\bin\Debug\CapaDatos.pdb
+C:\Users\Elvin\Desktop\Proyectos\PracticaCrafTech\CraftTechApp\CapaDAO\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Elvin\Desktop\Proyectos\PracticaCrafTech\CraftTechApp\CapaDAO\obj\Debug\CapaDatos.dll
+C:\Users\Elvin\Desktop\Proyectos\PracticaCrafTech\CraftTechApp\CapaDAO\obj\Debug\CapaDatos.pdb
